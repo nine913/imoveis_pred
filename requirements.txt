@@ -3,3 +3,6 @@ pandas
 scikit-learn
 joblib
 streamlit
+xgboost
+lightgbm
+catboost
